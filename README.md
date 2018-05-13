@@ -2,6 +2,4 @@
 
 This is really awesome website
 
-Now editing on update-reamde branch
-
-updated locally
+Updates made on master on GitHub before rebase
